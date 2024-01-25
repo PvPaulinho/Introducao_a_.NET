@@ -1,0 +1,7 @@
+=> .NET é um framework, um ambiente de execução.
+    - Consiste em 2 componentes:
+        1 - CLR (Common language Runtime): A maquina virtual que executa toda a aplicação desenvolvida.
+        2 - BCL (Base class Library): Uma biblioteca de codigos, compartilhada com todas as linguagens (C#,C++,J# e Basic .NET)
+    
+    - O .NET framework consiste em todo o conjunto de codigos de cada linguagem, a execução do compliador que pode executar 
+
