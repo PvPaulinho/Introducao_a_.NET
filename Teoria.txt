@@ -11,3 +11,10 @@
 => Link para verificação de modelo de aplicativo de console do C# gera instruções de nível superior (Para versões mais recentes)
 	https://learn.microsoft.com/pt-br/dotnet/core/tutorials/top-level-templates
 
+- Console.WriteLine -> Para imprimir na tela (A linha)
+
+- Variável de referência -> É aquela que se refére ao local de armazenamento na memória, a qual já é utilizado por outra variável.
+- Laços iterativos (Ou repetição) -> São estruturas que se repetem um bloco de códigos, determinado número de vezes
+	do ... while -> Executará o laço primeiro e depois irá verificar a condição. Ex.:(do{cont++;}while(cont<10);).
+	foreach -> Irá percorre todos os elementos de um conjunto. O contador será sempre o tamanho do conjunto.
+

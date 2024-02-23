@@ -1,0 +1,15 @@
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\bin\Debug\net8.0\LacosIterativos.exe
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\bin\Debug\net8.0\LacosIterativos.deps.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\bin\Debug\net8.0\LacosIterativos.runtimeconfig.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\bin\Debug\net8.0\LacosIterativos.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\bin\Debug\net8.0\LacosIterativos.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\LacosIterativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\LacosIterativos.AssemblyInfoInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\LacosIterativos.AssemblyInfo.cs
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\LacosIterativos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\LacosIterativos.sourcelink.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\LacosIterativos.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\refint\LacosIterativos.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\LacosIterativos.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\LacosIterativos.genruntimeconfig.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosIterativos\obj\Debug\net8.0\ref\LacosIterativos.dll
