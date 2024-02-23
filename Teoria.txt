@@ -3,5 +3,11 @@
         1 - CLR (Common language Runtime): A maquina virtual que executa toda a aplicação desenvolvida.
         2 - BCL (Base class Library): Uma biblioteca de codigos, compartilhada com todas as linguagens (C#,C++,J# e Basic .NET)
     
-    - O .NET framework consiste em todo o conjunto de codigos de cada linguagem, a execução do compliador que pode executar 
+    - O .NET framework consiste em todo o conjunto de codigos de cada linguagem, a execução do compliador que pode executar, a biblioteca de classe, o CLR que vai interpretar toda a aplicação e interagir com o sistema operacional, e o funcionamento no sistema operacional.
+
+=> IDE: Um ambiente de desenvolvimento integrado (IDE) é um software para criar aplicações que combina ferramentas comuns de desenvolvedor em uma única interface de usuário gráfica (GUI).
+
+
+=> Link para verificação de modelo de aplicativo de console do C# gera instruções de nível superior (Para versões mais recentes)
+	https://learn.microsoft.com/pt-br/dotnet/core/tutorials/top-level-templates
 
