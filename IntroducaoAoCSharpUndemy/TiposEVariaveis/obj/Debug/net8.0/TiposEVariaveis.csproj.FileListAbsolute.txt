@@ -1,0 +1,15 @@
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\bin\Debug\net8.0\TiposEVariaveis.exe
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\bin\Debug\net8.0\TiposEVariaveis.deps.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\bin\Debug\net8.0\TiposEVariaveis.runtimeconfig.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\bin\Debug\net8.0\TiposEVariaveis.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\bin\Debug\net8.0\TiposEVariaveis.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\TiposEVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\TiposEVariaveis.AssemblyInfoInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\TiposEVariaveis.AssemblyInfo.cs
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\TiposEVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\TiposEVariaveis.sourcelink.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\TiposEVariaveis.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\refint\TiposEVariaveis.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\TiposEVariaveis.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\TiposEVariaveis.genruntimeconfig.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\TiposEVariaveis\obj\Debug\net8.0\ref\TiposEVariaveis.dll
