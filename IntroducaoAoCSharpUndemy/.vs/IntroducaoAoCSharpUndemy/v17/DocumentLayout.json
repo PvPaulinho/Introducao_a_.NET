@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B323C55-3B30-4A6B-A828-1DC506E6427B}|LacosCondicionais\\LacosCondicionais.csproj|c:\\users\\paulo victor\\onedrive\\\u00E1rea de trabalho\\curso c#\\introducaoaocsharpundemy\\lacoscondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B323C55-3B30-4A6B-A828-1DC506E6427B}|LacosCondicionais\\LacosCondicionais.csproj|solutionrelative:lacoscondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\LacosCondicionais\\Program.cs",
+              "RelativeDocumentMoniker": "LacosCondicionais\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\LacosCondicionais\\Program.cs",
+              "RelativeToolTip": "LacosCondicionais\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:53:49.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

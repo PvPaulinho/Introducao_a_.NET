@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposEVariaveis", "TiposEVariaveis\TiposEVariaveis.csproj", "{90AF6931-2739-4C23-9CFF-A22790EB6547}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosIterativos", "LacosIterativos\LacosIterativos.csproj", "{3DE58297-AC63-4222-ABA5-054AD8DDA221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LacosIterativos", "LacosIterativos\LacosIterativos.csproj", "{3DE58297-AC63-4222-ABA5-054AD8DDA221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosCondicionais", "LacosCondicionais\LacosCondicionais.csproj", "{2B323C55-3B30-4A6B-A828-1DC506E6427B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{E0BA61F6-8A65-494B-BF18-B6C9EC941226}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{3DE58297-AC63-4222-ABA5-054AD8DDA221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DE58297-AC63-4222-ABA5-054AD8DDA221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DE58297-AC63-4222-ABA5-054AD8DDA221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B323C55-3B30-4A6B-A828-1DC506E6427B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B323C55-3B30-4A6B-A828-1DC506E6427B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B323C55-3B30-4A6B-A828-1DC506E6427B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B323C55-3B30-4A6B-A828-1DC506E6427B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BA61F6-8A65-494B-BF18-B6C9EC941226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BA61F6-8A65-494B-BF18-B6C9EC941226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BA61F6-8A65-494B-BF18-B6C9EC941226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BA61F6-8A65-494B-BF18-B6C9EC941226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

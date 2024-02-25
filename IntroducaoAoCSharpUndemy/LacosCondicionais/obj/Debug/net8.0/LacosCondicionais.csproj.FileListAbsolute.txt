@@ -1,0 +1,15 @@
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.exe
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.deps.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.runtimeconfig.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\bin\Debug\net8.0\LacosCondicionais.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.AssemblyInfoInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.AssemblyInfo.cs
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.sourcelink.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\refint\LacosCondicionais.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\LacosCondicionais.genruntimeconfig.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\LacosCondicionais\obj\Debug\net8.0\ref\LacosCondicionais.dll

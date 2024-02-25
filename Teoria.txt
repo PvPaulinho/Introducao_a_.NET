@@ -17,4 +17,6 @@
 - Laços iterativos (Ou repetição) -> São estruturas que se repetem um bloco de códigos, determinado número de vezes
 	do ... while -> Executará o laço primeiro e depois irá verificar a condição. Ex.:(do{cont++;}while(cont<10);).
 	foreach -> Irá percorre todos os elementos de um conjunto. O contador será sempre o tamanho do conjunto.
-
+- Laços condicionais -> Execução mediante uma condição/situação satisfeita.
+- Switch ... case -> Só executa o caso em que a condição e satisfeita exatamente.
+	default: -> Será executado caso nenhuma das condições tenha sido satisfeitas
