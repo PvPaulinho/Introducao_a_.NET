@@ -1,0 +1,12 @@
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\bin\Debug\net8.0\ModuloCalculadora.deps.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\bin\Debug\net8.0\ModuloCalculadora.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\bin\Debug\net8.0\ModuloCalculadora.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.AssemblyInfoInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.AssemblyInfo.cs
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.sourcelink.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\refint\ModuloCalculadora.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\ModuloCalculadora\obj\Debug\net8.0\ref\ModuloCalculadora.dll

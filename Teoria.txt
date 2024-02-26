@@ -34,3 +34,5 @@
 - De boa prática ao se criar uma interface, adiciona-se um 'I' antes do nome da interface (ex.:IInterface).
 - É importante a Interface ter a menor quantidade de funções possíveis, para que assim fique fácil de utiliza-la em varios ocasiões.
 - DLL (Dynamic Link Library - Biblioteca de Link Dinâmica) -> pode ser entendida como um conjunto de dados (funções) acessíveis a várias aplicações, ao mesmo tempo ou não.
+
+- Console.ReadLine(); -> le opção do usuario
