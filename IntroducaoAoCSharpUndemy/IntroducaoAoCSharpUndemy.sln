@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposEVariaveis", "TiposEVa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LacosIterativos", "LacosIterativos\LacosIterativos.csproj", "{3DE58297-AC63-4222-ABA5-054AD8DDA221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosCondicionais", "LacosCondicionais\LacosCondicionais.csproj", "{2B323C55-3B30-4A6B-A828-1DC506E6427B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LacosCondicionais", "LacosCondicionais\LacosCondicionais.csproj", "{2B323C55-3B30-4A6B-A828-1DC506E6427B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{E0BA61F6-8A65-494B-BF18-B6C9EC941226}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste", "Teste\Teste.csproj", "{E0BA61F6-8A65-494B-BF18-B6C9EC941226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes1", "Classes1\Classes1.csproj", "{A427FEF6-CE91-412F-AE4F-2B2EBC204821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe2", "Classe2\Classe2.csproj", "{5BEA35F8-688B-44C3-A078-14A13A743CCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{E0BA61F6-8A65-494B-BF18-B6C9EC941226}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0BA61F6-8A65-494B-BF18-B6C9EC941226}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0BA61F6-8A65-494B-BF18-B6C9EC941226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A427FEF6-CE91-412F-AE4F-2B2EBC204821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A427FEF6-CE91-412F-AE4F-2B2EBC204821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A427FEF6-CE91-412F-AE4F-2B2EBC204821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A427FEF6-CE91-412F-AE4F-2B2EBC204821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEA35F8-688B-44C3-A078-14A13A743CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEA35F8-688B-44C3-A078-14A13A743CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEA35F8-688B-44C3-A078-14A13A743CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEA35F8-688B-44C3-A078-14A13A743CCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

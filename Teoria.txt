@@ -15,8 +15,18 @@
 
 - Variável de referência -> É aquela que se refére ao local de armazenamento na memória, a qual já é utilizado por outra variável.
 - Laços iterativos (Ou repetição) -> São estruturas que se repetem um bloco de códigos, determinado número de vezes
-	do ... while -> Executará o laço primeiro e depois irá verificar a condição. Ex.:(do{cont++;}while(cont<10);).
-	foreach -> Irá percorre todos os elementos de um conjunto. O contador será sempre o tamanho do conjunto.
+	- do ... while -> Executará o laço primeiro e depois irá verificar a condição. Ex.:(do{cont++;}while(cont<10);).
+	- foreach -> Irá percorre todos os elementos de um conjunto. O contador será sempre o tamanho do conjunto.
 - Laços condicionais -> Execução mediante uma condição/situação satisfeita.
 - Switch ... case -> Só executa o caso em que a condição e satisfeita exatamente.
-	default: -> Será executado caso nenhuma das condições tenha sido satisfeitas
+	- default: -> Será executado caso nenhuma das condições tenha sido satisfeitas
+
+- Modificador de acessos ->São as definições de acessos do conteudo expecífico (Ex.: public, privete, protect e internal).
+- Propriedade -> Define uma maneira de acessar atributos.
+- Encapsular -> Proteger dados (Usando private, protect e internal).
+- Polimorfismo -> O objeto tem mais de uma forma (Pode ser criado de várias formas. Ex.: Um animal do tipo cachorro. Animal a = new cachorro).
+	- base -> Invoca o construtor da classe pai.
+- Classe do tipo abstrata -> É um tipo de classe que não pode ser instanciada, irá servir apenas para outras classes herdarem seus atributos e métodos.
+- Atributos ou método do tipo abstract -> Indica que a atributo ou método deverá ser implementada pela classe filha que estiver herdando essa atributo ou método.
+- Override -> Vai sobescrever um valor em cima de outro herdado da classe pai.
+- Virtual ->Permite que as classes filhas escolham se irá sobre escrever a propriedade ou não. (Obs.: Deve ser atribuida um valor inicial na criação).

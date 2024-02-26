@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B323C55-3B30-4A6B-A828-1DC506E6427B}|LacosCondicionais\\LacosCondicionais.csproj|c:\\users\\paulo victor\\onedrive\\\u00E1rea de trabalho\\curso c#\\introducaoaocsharpundemy\\lacoscondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B323C55-3B30-4A6B-A828-1DC506E6427B}|LacosCondicionais\\LacosCondicionais.csproj|solutionrelative:lacoscondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|c:\\users\\paulo victor\\onedrive\\\u00E1rea de trabalho\\curso c#\\introducaoaocsharpundemy\\classe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|solutionrelative:classe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|c:\\users\\paulo victor\\onedrive\\\u00E1rea de trabalho\\curso c#\\introducaoaocsharpundemy\\classe2\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|solutionrelative:classe2\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|c:\\users\\paulo victor\\onedrive\\\u00E1rea de trabalho\\curso c#\\introducaoaocsharpundemy\\classe2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|solutionrelative:classe2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|c:\\users\\paulo victor\\onedrive\\\u00E1rea de trabalho\\curso c#\\introducaoaocsharpundemy\\classe2\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|solutionrelative:classe2\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|c:\\users\\paulo victor\\onedrive\\\u00E1rea de trabalho\\curso c#\\introducaoaocsharpundemy\\classe2\\som.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEA35F8-688B-44C3-A078-14A13A743CCC}|Classe2\\Classe2.csproj|solutionrelative:classe2\\som.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +42,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Som.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Som.cs",
+              "RelativeDocumentMoniker": "Classe2\\Som.cs",
+              "ToolTip": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Som.cs",
+              "RelativeToolTip": "Classe2\\Som.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T01:15:17.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Animal.cs",
+              "RelativeDocumentMoniker": "Classe2\\Animal.cs",
+              "ToolTip": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Animal.cs",
+              "RelativeToolTip": "Classe2\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T00:53:38.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Gato.cs",
+              "RelativeDocumentMoniker": "Classe2\\Gato.cs",
+              "ToolTip": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Gato.cs",
+              "RelativeToolTip": "Classe2\\Gato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T00:45:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Classe2\\Cachorro.cs",
+              "ToolTip": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Cachorro.cs",
+              "RelativeToolTip": "Classe2\\Cachorro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T00:44:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\LacosCondicionais\\Program.cs",
-              "RelativeDocumentMoniker": "LacosCondicionais\\Program.cs",
-              "ToolTip": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\LacosCondicionais\\Program.cs",
-              "RelativeToolTip": "LacosCondicionais\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Program.cs",
+              "RelativeDocumentMoniker": "Classe2\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulo Victor\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\IntroducaoAoCSharpUndemy\\Classe2\\Program.cs",
+              "RelativeToolTip": "Classe2\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBUAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T22:53:49.32Z",
+              "WhenOpened": "2024-02-26T00:43:52.513Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\bin\Debug\net8.0\Classe2.exe
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\bin\Debug\net8.0\Classe2.deps.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\bin\Debug\net8.0\Classe2.runtimeconfig.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\bin\Debug\net8.0\Classe2.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\bin\Debug\net8.0\Classe2.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\Classe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\Classe2.AssemblyInfoInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\Classe2.AssemblyInfo.cs
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\Classe2.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\Classe2.sourcelink.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\Classe2.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\refint\Classe2.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\Classe2.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\Classe2.genruntimeconfig.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Classe2\obj\Debug\net8.0\ref\Classe2.dll
