@@ -1,0 +1,15 @@
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

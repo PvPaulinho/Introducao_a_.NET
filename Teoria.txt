@@ -30,3 +30,7 @@
 - Atributos ou método do tipo abstract -> Indica que a atributo ou método deverá ser implementada pela classe filha que estiver herdando essa atributo ou método.
 - Override -> Vai sobescrever um valor em cima de outro herdado da classe pai.
 - Virtual ->Permite que as classes filhas escolham se irá sobre escrever a propriedade ou não. (Obs.: Deve ser atribuida um valor inicial na criação).
+
+- De boa prática ao se criar uma interface, adiciona-se um 'I' antes do nome da interface (ex.:IInterface).
+- É importante a Interface ter a menor quantidade de funções possíveis, para que assim fique fácil de utiliza-la em varios ocasiões.
+- DLL (Dynamic Link Library - Biblioteca de Link Dinâmica) -> pode ser entendida como um conjunto de dados (funções) acessíveis a várias aplicações, ao mesmo tempo ou não.

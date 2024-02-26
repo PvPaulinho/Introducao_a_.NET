@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LacosCondicionais", "LacosC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste", "Teste\Teste.csproj", "{E0BA61F6-8A65-494B-BF18-B6C9EC941226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes1", "Classes1\Classes1.csproj", "{A427FEF6-CE91-412F-AE4F-2B2EBC204821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes1", "Classes1\Classes1.csproj", "{A427FEF6-CE91-412F-AE4F-2B2EBC204821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe2", "Classe2\Classe2.csproj", "{5BEA35F8-688B-44C3-A078-14A13A743CCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classe2", "Classe2\Classe2.csproj", "{5BEA35F8-688B-44C3-A078-14A13A743CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{1464BF83-94FB-442C-9E2A-0633147BBDBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{5BEA35F8-688B-44C3-A078-14A13A743CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BEA35F8-688B-44C3-A078-14A13A743CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BEA35F8-688B-44C3-A078-14A13A743CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1464BF83-94FB-442C-9E2A-0633147BBDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1464BF83-94FB-442C-9E2A-0633147BBDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1464BF83-94FB-442C-9E2A-0633147BBDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1464BF83-94FB-442C-9E2A-0633147BBDBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
