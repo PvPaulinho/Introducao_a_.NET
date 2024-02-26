@@ -1,0 +1,17 @@
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.exe
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.deps.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.runtimeconfig.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\bin\Debug\net8.0-windows\SimplePaint.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.FormPrincipal.resources
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.csproj.GenerateResource.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.AssemblyInfoInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.AssemblyInfo.cs
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.sourcelink.json
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\refint\SimplePaint.dll
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.pdb
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\SimplePaint.genruntimeconfig.cache
+C:\Users\Paulo Victor\OneDrive\Área de Trabalho\Curso C#\IntroducaoAoCSharpUndemy\SimplePaint\obj\Debug\net8.0-windows\ref\SimplePaint.dll
