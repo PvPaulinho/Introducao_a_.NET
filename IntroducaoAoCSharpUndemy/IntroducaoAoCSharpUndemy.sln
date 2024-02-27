@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuloCalculadora", "Modulo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraConsole", "CalculadoraConsole\CalculadoraConsole.csproj", "{396AF23F-D54F-4ADD-B867-1D2325D7A98F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePaint", "SimplePaint\SimplePaint.csproj", "{4494EEB5-3172-44B7-8D66-0C8759F529B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimplePaint", "SimplePaint\SimplePaint.csproj", "{4494EEB5-3172-44B7-8D66-0C8759F529B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToPark", "SimpleToPark\SimpleToPark.csproj", "{9722CD63-2791-459F-A0AE-6F24C86F7EF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{4494EEB5-3172-44B7-8D66-0C8759F529B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4494EEB5-3172-44B7-8D66-0C8759F529B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4494EEB5-3172-44B7-8D66-0C8759F529B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9722CD63-2791-459F-A0AE-6F24C86F7EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9722CD63-2791-459F-A0AE-6F24C86F7EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9722CD63-2791-459F-A0AE-6F24C86F7EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9722CD63-2791-459F-A0AE-6F24C86F7EF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -36,3 +36,5 @@
 - DLL (Dynamic Link Library - Biblioteca de Link Dinâmica) -> pode ser entendida como um conjunto de dados (funções) acessíveis a várias aplicações, ao mesmo tempo ou não.
 
 - Console.ReadLine(); -> le opção do usuario
+
+- DataTable -> usado para armazenar dados em formato de tabelas
